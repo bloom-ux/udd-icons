@@ -1,0 +1,25 @@
+{
+  "name": "@bloom-ux/udd-icons",
+  "version": "0.1.0",
+  "description": "Íconos usados en sitios UDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloom-ux/udd-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "udd",
+    "education",
+    "svg"
+  ],
+  "author": "Bloom User Experience <hola@bloom-ux.com>",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/bloom-ux/udd-icons/issues"
+  },
+  "homepage": "https://github.com/bloom-ux/udd-icons#readme"
+}
